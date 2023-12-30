@@ -1,6 +1,6 @@
 import BgLogo from "../assets/images/triangle.png";
 import Logo from "../assets/images/Logo.jpg";
-import { FaBarsStaggered } from "react-icons/fa6";
+// import { FaBarsStaggered } from "react-icons/fa6";
 
 const Nav = () => {
   return (
@@ -11,7 +11,7 @@ const Nav = () => {
         </div>
 
         <div className="mt-6">
-          <FaBarsStaggered className="text-white w-[34.667px] h-[29.75px] cursor-pointer" />
+          {/* <FaBarsStaggered className="text-white w-[34.667px] h-[29.75px] cursor-pointer" /> */}
         </div>
       </div>
 
