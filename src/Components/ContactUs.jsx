@@ -4,7 +4,7 @@ const ContactUs = () => {
   return (
     <section className="w-full min-h-screen text-white p-20">
       <div className="text-center text-white grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-16">
-        <p className="text-[#CCFE01] text-8xl font-bold">YOUR <span className="text-white">IMAGINATION</span> </p>
+        <p className="text-[#CCFE01] text-4xl md:text-6xl lg:text-8xl font-bold">YOUR <span className="text-white">IMAGINATION</span> </p>
       </div>
 
       <div className="grid place-items-center grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-16 mt-[5rem]">
